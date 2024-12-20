@@ -1,0 +1,2 @@
+# new_release_chechker
+最新バージョンを検索するアプリ
